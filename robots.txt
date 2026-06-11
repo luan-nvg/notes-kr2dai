@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://luan-nvg.github.io/notes-kr2dai/sitemap.xml
